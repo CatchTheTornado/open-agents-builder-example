@@ -1,5 +1,3 @@
-# open-agents-builder-example
-API Client example usage
 ## Getting Started
 
 This example demonstrates how to use the [open-agents-builder-client](https://github.com/CatchTheTornado/open-agents-builder-client) to connect to the [Open Agents Builder API](https://github.com/CatchTheTornado/open-agents-builder). The API documentation can be found [here](https://docs.openagentsbuilder.com/).
